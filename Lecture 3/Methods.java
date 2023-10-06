@@ -6,16 +6,16 @@
 
 public class Methods {
   public static int sum(int a, int b) {
-    int result = 0;
-    for (int i = a; i <= b; i++) {
-      result += i;
+    int result=0;
+    for (int i=a;i<=b;i++) {
+      result+=i;
     }
     return result;
   }
 
   public static void main(String[] args){
-    System.out.println(sum(1, 10));
-    System.out.println(sum(20, 37));
-    System.out.println(sum(35, 49));
+    System.out.println(sum(1,10));
+    System.out.println(sum(20,37));
+    System.out.println(sum(35,49));
   }
 }
