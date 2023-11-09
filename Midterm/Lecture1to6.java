@@ -32,9 +32,9 @@ public class Lecture1to6 {
     }
 
     public static void ComputeArea(String[] args) {
-        double radius;
-        double area;
-        final double PI = 3.14159;
+        // double radius;
+        // double area;
+        // final double PI = 3.14159;
     }
 
     public static double FahrenheitToCelsius(int F) {
