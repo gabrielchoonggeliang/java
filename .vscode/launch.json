@@ -1,0 +1,554 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CourseMain",
+      "request": "launch",
+      "mainClass": "CourseMain",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "A",
+      "request": "launch",
+      "mainClass": "A",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "PracticeTwo",
+      "request": "launch",
+      "mainClass": "PracticeTwo",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "TextFieldDemo",
+      "request": "launch",
+      "mainClass": "TextFieldDemo",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "ScrollBarDemo",
+      "request": "launch",
+      "mainClass": "ScrollBarDemo",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "ComboBoxDemo",
+      "request": "launch",
+      "mainClass": "ComboBoxDemo",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "CheckBoxDemo",
+      "request": "launch",
+      "mainClass": "CheckBoxDemo",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "ButtonDemo",
+      "request": "launch",
+      "mainClass": "ButtonDemo",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "RadioButtonDemo",
+      "request": "launch",
+      "mainClass": "RadioButtonDemo",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "GameInterface",
+      "request": "launch",
+      "mainClass": "GameInterface",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Sudoku",
+      "request": "launch",
+      "mainClass": "Sudoku",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "TicTacToeFX",
+      "request": "launch",
+      "mainClass": "Assignment.TicTacToeFX",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "BallPane",
+      "request": "launch",
+      "mainClass": "BallPane",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "DisplayClock",
+      "request": "launch",
+      "mainClass": "DisplayClock",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls"
+    },
+    {
+      "type": "java",
+      "name": "ClockPane",
+      "request": "launch",
+      "mainClass": "ClockPane",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls"
+    },
+    {
+      "type": "java",
+      "name": "ShowLine",
+      "request": "launch",
+      "mainClass": "ShowLine",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls"
+    },
+    {
+      "type": "java",
+      "name": "ShowHBoxVBox",
+      "request": "launch",
+      "mainClass": "ShowHBoxVBox",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls"
+    },
+    {
+      "type": "java",
+      "name": "TicTacToeFX",
+      "request": "launch",
+      "mainClass": "TicTacToeFX",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls"
+    },
+    {
+      "type": "java",
+      "name": "AdditionQuiz",
+      "request": "launch",
+      "mainClass": "AdditionQuiz",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "AreaOfCircle",
+      "request": "launch",
+      "mainClass": "AreaOfCircle",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "CheckArraySymmetry",
+      "request": "launch",
+      "mainClass": "CheckArraySymmetry",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "ChineseZodiac",
+      "request": "launch",
+      "mainClass": "ChineseZodiac",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "Circle",
+      "request": "launch",
+      "mainClass": "Circle",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "ComputeAreaWithConsoleInput",
+      "request": "launch",
+      "mainClass": "ComputeAreaWithConsoleInput",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "ComputeAverage",
+      "request": "launch",
+      "mainClass": "ComputeAverage",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "ComputeLoan",
+      "request": "launch",
+      "mainClass": "ComputeLoan",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "CountLetters",
+      "request": "launch",
+      "mainClass": "CountLetters",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "DisplayCurrentTime",
+      "request": "launch",
+      "mainClass": "DisplayCurrentTime",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "DisplayTime",
+      "request": "launch",
+      "mainClass": "DisplayTime",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "DistinctNumbers",
+      "request": "launch",
+      "mainClass": "DistinctNumbers",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "Example2",
+      "request": "launch",
+      "mainClass": "Example2",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "Example3",
+      "request": "launch",
+      "mainClass": "Example3",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "Example_1",
+      "request": "launch",
+      "mainClass": "Example_1",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "FahrenheitToCelsius",
+      "request": "launch",
+      "mainClass": "FahrenheitToCelsius",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "GreatestCommonDivisorMethod",
+      "request": "launch",
+      "mainClass": "GreatestCommonDivisorMethod",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "InputValue",
+      "request": "launch",
+      "mainClass": "InputValue",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "Leapyear",
+      "request": "launch",
+      "mainClass": "Leapyear",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "LogicError",
+      "request": "launch",
+      "mainClass": "LogicError",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "Lottery",
+      "request": "launch",
+      "mainClass": "Lottery",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "Methods",
+      "request": "launch",
+      "mainClass": "Methods",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "Lecture1to6",
+      "request": "launch",
+      "mainClass": "Midterm.Lecture1to6",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "LectureFive",
+      "request": "launch",
+      "mainClass": "Midterm.LectureFive",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "MyJavaFX",
+      "request": "launch",
+      "mainClass": "MyJavaFX",
+      "projectName": "java_59ca4323",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls"
+    },
+    {
+      "type": "java",
+      "name": "OrderTwoCities",
+      "request": "launch",
+      "mainClass": "OrderTwoCities",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "Palindrome",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "PassTwoDimensionalArray",
+      "request": "launch",
+      "mainClass": "PassTwoDimensionalArray",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "PrintCalendar",
+      "request": "launch",
+      "mainClass": "PrintCalendar",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "PrintType",
+      "request": "launch",
+      "mainClass": "PrintType",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "RandomShuffling",
+      "request": "launch",
+      "mainClass": "RandomShuffling",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "ReadNumbers",
+      "request": "launch",
+      "mainClass": "ReadNumbers",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "ReadString",
+      "request": "launch",
+      "mainClass": "ReadString",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "RepeatAdditionQuiz",
+      "request": "launch",
+      "mainClass": "RepeatAdditionQuiz",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "SalesTax",
+      "request": "launch",
+      "mainClass": "SalesTax",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "ShoppingCart",
+      "request": "launch",
+      "mainClass": "ShoppingCart",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "SimpleIfDemo",
+      "request": "launch",
+      "mainClass": "SimpleIfDemo",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "SubString",
+      "request": "launch",
+      "mainClass": "SubString",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "SubtractionQuiz",
+      "request": "launch",
+      "mainClass": "SubtractionQuiz",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "TestArrayArguments",
+      "request": "launch",
+      "mainClass": "TestArrayArguments",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "TestBooleanOperators",
+      "request": "launch",
+      "mainClass": "TestBooleanOperators",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "TestEdible",
+      "request": "launch",
+      "mainClass": "TestEdible",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "TestMain",
+      "request": "launch",
+      "mainClass": "TestMain",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "TestMethodOverLoading",
+      "request": "launch",
+      "mainClass": "TestMethodOverLoading",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "TestOverloading",
+      "request": "launch",
+      "mainClass": "TestOverloading",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "TestVoidMethods",
+      "request": "launch",
+      "mainClass": "TestVoidMethods",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "TestingArray",
+      "request": "launch",
+      "mainClass": "TestingArray",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "VarAgrsDemo",
+      "request": "launch",
+      "mainClass": "VarAgrsDemo",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "WrongCode",
+      "request": "launch",
+      "mainClass": "WrongCode",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "nextVSnextLine",
+      "request": "launch",
+      "mainClass": "nextVSnextLine",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "C1",
+      "request": "launch",
+      "mainClass": "p1.C1",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "C2",
+      "request": "launch",
+      "mainClass": "p1.C2",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "C3",
+      "request": "launch",
+      "mainClass": "p1.C3",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "C4",
+      "request": "launch",
+      "mainClass": "p2.C4",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
+      "name": "C5",
+      "request": "launch",
+      "mainClass": "p2.C5",
+      "projectName": "java_59ca4323"
+    }
+  ]
+}

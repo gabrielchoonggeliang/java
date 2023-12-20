@@ -1,0 +1,111 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SudokuGame",
+      "request": "launch",
+      "mainClass": "SudokuGame",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml --add-exports javafx.graphics/com.sun.javafx.sg.prism=ALL-UNNAMED --add-exports javafx.graphics/com.sun.javafx.tk.quantum=ALL-UNNAMED --add-exports javafx.base/com.sun.javafx.event=ALL-UNNAMED --add-exports javafx.graphics/com.sun.javafx.scene=ALL-UNNAMED --add-exports javafx.graphics/com.sun.javafx.scene.traversal=ALL-UNNAMED --add-exports javafx.graphics/com.sun.javafx.scene.input=ALL-UNNAMED --add-exports javafx.graphics/com.sun.javafx.geom=ALL-UNNAMED --add-exports javafx.graphics/com.sun.javafx.stage=ALL-UNNAMED --add-exports javafx.graphics/com.sun.javafx.util=ALL-UNNAMED --add-exports javafx.graphics/com.sun.javafx.application=ALL-UNNAMED --add-exports javafx.graphics/com.sun.javafx.cursor=ALL-UNNAMED --add-exports javafx.graphics/com.sun.javafx.geom.transform=ALL-UNNAMED --add-exports javafx.graphics/com.sun.javafx.geom.transform=ALL-UNNAMED"
+    },
+    {
+      "type": "java",
+      "name": "MultipleJumpsGame2",
+      "request": "launch",
+      "mainClass": "MultipleJumpsGame2",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "MultipleJumpsGame",
+      "request": "launch",
+      "mainClass": "MultipleJumpsGame",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "PlatformerGame",
+      "request": "launch",
+      "mainClass": "PlatformerGame",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "ContinuousJumpingGame",
+      "request": "launch",
+      "mainClass": "ContinuousJumpingGame",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "JumpingGame",
+      "request": "launch",
+      "mainClass": "JumpingGame",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Minesweeper",
+      "request": "launch",
+      "mainClass": "Minesweeper",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "SudokuCreator",
+      "request": "launch",
+      "mainClass": "SudokuCreator",
+      "projectName": "Assignment_1981ad59"
+    },
+    {
+      "type": "java",
+      "name": "GameInterface2",
+      "request": "launch",
+      "mainClass": "GameInterface2",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "TheQuartile",
+      "request": "launch",
+      "mainClass": "TheQuartile",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "GameInterface",
+      "request": "launch",
+      "mainClass": "GameInterface",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "Sudoku",
+      "request": "launch",
+      "mainClass": "Sudoku",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "TicTacToeFX",
+      "request": "launch",
+      "mainClass": "TicTacToeFX",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    }
+  ]
+}
