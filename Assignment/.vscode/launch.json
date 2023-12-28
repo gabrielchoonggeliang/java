@@ -6,6 +6,38 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RocketApp",
+      "request": "launch",
+      "mainClass": "RocketApp",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "RocketGame",
+      "request": "launch",
+      "mainClass": "RocketGame",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "BackgroundMusicPlayer",
+      "request": "launch",
+      "mainClass": "BackgroundMusicPlayer",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
+      "name": "GameWithBackgroundMusic",
+      "request": "launch",
+      "mainClass": "GameWithBackgroundMusic",
+      "projectName": "Assignment_1981ad59",
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+    },
+    {
+      "type": "java",
       "name": "SudokuGame",
       "request": "launch",
       "mainClass": "SudokuGame",
@@ -42,7 +74,7 @@
       "request": "launch",
       "mainClass": "ContinuousJumpingGame",
       "projectName": "Assignment_1981ad59",
-      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.media,javafx.fxml"
     },
     {
       "type": "java",
@@ -89,7 +121,7 @@
       "request": "launch",
       "mainClass": "GameInterface",
       "projectName": "Assignment_1981ad59",
-      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.fxml"
+      "vmArgs": "--module-path /Library/Java/JavaVirtualMachines/javafx-sdk-21.0.1/lib --add-modules=javafx.controls,javafx.media,javafx.fxml"
     },
     {
       "type": "java",
