@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ContinuousJumpingGame",
+      "request": "launch",
+      "mainClass": "ContinuousJumpingGame",
+      "projectName": "java_59ca4323"
+    },
+    {
+      "type": "java",
       "name": "CourseMain",
       "request": "launch",
       "mainClass": "CourseMain",
